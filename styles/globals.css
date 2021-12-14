@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+#blocklyDiv {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
